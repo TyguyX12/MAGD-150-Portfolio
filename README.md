@@ -8,7 +8,7 @@ Welcome, below is a collection of all of my projects so far for my MAGD 150 clas
 
 [Project1](https://github.com/TyguyX12/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab01_Marinkovic/s19magd150lab01_Marinkovic.pde)
 
-Project 1 was a simple black and white illustration.
+\tProject 1 was a simple black and white illustration.
   
 ### Project 2
 
