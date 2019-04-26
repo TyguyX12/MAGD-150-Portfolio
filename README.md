@@ -11,7 +11,7 @@ Welcome, below is a collection of all of my projects so far for my MAGD 150 clas
 
 ### Project 2
 
-[Project2]https://github.com/TyguyX12/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab02_Marinkovic/s19magd150lab02_Marinkovic.pde)
+[Project2](https://github.com/TyguyX12/MAGD-150-Portfolio/blob/gh-pages/s19magd150lab02_Marinkovic/s19magd150lab02_Marinkovic.pde)
 
 
 ### Project 3
