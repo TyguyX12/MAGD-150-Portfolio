@@ -1,37 +1,28 @@
 # MAGD 150
 
-You can use the [editor on GitHub](https://github.com/TyguyX12/MAGD-150-Portfolio/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome, below is a collection of all of my projects so far for my MAGD 150 class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### Project 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 2
 
-```markdown
-Syntax highlighted code block
+### Project 3
 
-# Header 1
-## Header 2
-### Header 3
+### Project 4
 
-- Bulleted
-- List
+### Project 5
 
-1. Numbered
-2. List
+### Project 6
 
-**Bold** and _Italic_ and `Code` text
+### Project 7
 
-[Link](url) and ![Image](src)
-```
+### Project 8
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Project 9
 
-### Jekyll Themes
+### Project 10
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TyguyX12/MAGD-150-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link](url)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
