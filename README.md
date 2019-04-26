@@ -1,4 +1,4 @@
-#MAGD 150
+# MAGD 150
 
 You can use the [editor on GitHub](https://github.com/TyguyX12/MAGD-150-Portfolio/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
